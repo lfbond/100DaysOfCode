@@ -6,17 +6,17 @@ Estarei estudando a principio para me tornar um Desenvolvedor FullStack Web Java
 
 Então começarei com este plano de Estudo
 
-	* HTML
-	* CSS
-	* Lógica de Programação
-	* JavaScript
-	* ReactJS
-	* Tapyscript
-	* NodeJS
-	* Banco de Dados
-	* Firebase
-	* Desenvolvimento Mobile com React Native
-	* Infraestrutura Web
+* HTML
+* CSS
+* Lógica de Programação
+* JavaScript
+* ReactJS
+* Tapyscript
+* NodeJS
+* Banco de Dados
+* Firebase
+* Desenvolvimento Mobile com React Native
+* Infraestrutura Web
 
 Esses são os tópicos iniciais que farei.
 
